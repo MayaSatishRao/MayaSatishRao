@@ -1,8 +1,7 @@
 ### Hi there 👋
 
+[![@maya25's Holopin board](https://holopin.me/maya25)](https://holopin.io/@maya25)
 
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... React, HTML, CSS , Javascript, Java
 - 👯 I’m looking to collaborate on ... anything related to web 
